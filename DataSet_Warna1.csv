@@ -1,0 +1,18 @@
+﻿Nama Warna;Kode Warna;Mood;Tema;Suasana;Kontras;Popularitas;Kecerahan;Gaya Desain;
+Merah;#FF0000;Energik;Energi;Bersemangat;Tinggi;Tinggi;Sedang;Klasik;
+Biru;#0000FF;Menyenangkan;Ketenangan;Nyaman;Sedang;Tinggi;Tinggi;Klasik;
+Hijau;#008000;Menyegarkan;Alam;Segar;Tinggi;Sedang;Tinggi;Klasik;
+Kuning;#FFFF00;Ceria;Kebahagiaan;Ceria;Tinggi;Tinggi;Tinggi;Klasik;
+Nila;#4B0082;Tenang;Ketenangan;Damai;Sedang;Sedang;Sedang;Klasik;
+Hitam;#000000;Elegan;Formal;Misterius;Tinggi;Tinggi;Rendah;Klasik;
+Putih;#FFFFFF;Damai;Kebersihan;Bersih;Sedang;Tinggi;Tinggi;Klasik;
+Coklat;#8B4513;Kehangatan;Keakraban;Hangat;Sedang;Sedang;Sedang;Klasik;
+Abu-abu;#808080;Netral;Ketenangan;Tenang;Sedang;Sedang;Sedang;Klasik;
+Merah Flat;#D50000;Energik;Energi;Bersemangat;Tinggi;Tinggi;Rendah;Modern;
+Biru Flat;#1976D2;Menyenangkan;Ketenangan;Nyaman;Sedang;Tinggi;Rendah;Modern;
+Hijau Flat;#388E3C;Menyegarkan;Alam;Segar;Tinggi;Sedang;Rendah;Modern;
+Kuning Flat;#FBC02D;Ceria;Kebahagiaan;Ceria;Tinggi;Tinggi;Rendah;Modern;
+Nila Flat;#6A1B9A;Tenang;Ketenangan;Damai;Sedang;Tinggi;Rendah;Modern;
+Hitam Flat;#424242;Elegan;Formal;Misterius;Tinggi;Tinggi;Rendah;Modern;
+Coklat Flat;#6D4C41;Kehangatan;Keakraban;Hangat;Sedang;Sedang;Rendah;Modern;
+Abu-abu Flat;#B0B0B0;Netral;Ketenangan;Tenang;Sedang;Sedang;Rendah;Modern;
